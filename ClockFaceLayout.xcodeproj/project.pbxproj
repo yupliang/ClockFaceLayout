@@ -12,6 +12,7 @@
 		FD1E0120241F916F00D0AC23 /* ClockFaceLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = FD1E0112241F916E00D0AC23 /* ClockFaceLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FD1E012C241FAF1D00D0AC23 /* ClockLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD1E012B241FAF1D00D0AC23 /* ClockLayout.swift */; };
 		FD3D256F24221A6B0000FD4E /* ClockFaceHourNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3D256E24221A6A0000FD4E /* ClockFaceHourNumber.swift */; };
+		FDBDD5D42422736A00BD3A32 /* PinterestLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDBDD5D32422736A00BD3A32 /* PinterestLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +34,7 @@
 		FD1E011F241F916F00D0AC23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD1E012B241FAF1D00D0AC23 /* ClockLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockLayout.swift; sourceTree = "<group>"; };
 		FD3D256E24221A6A0000FD4E /* ClockFaceHourNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockFaceHourNumber.swift; sourceTree = "<group>"; };
+		FDBDD5D32422736A00BD3A32 /* PinterestLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinterestLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		FD1E0111241F916E00D0AC23 /* ClockFaceLayout */ = {
 			isa = PBXGroup;
 			children = (
+				FDBDD5D32422736A00BD3A32 /* PinterestLayout.swift */,
 				FD3D256E24221A6A0000FD4E /* ClockFaceHourNumber.swift */,
 				FD1E0112241F916E00D0AC23 /* ClockFaceLayout.h */,
 				FD1E012B241FAF1D00D0AC23 /* ClockLayout.swift */,
@@ -202,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDBDD5D42422736A00BD3A32 /* PinterestLayout.swift in Sources */,
 				FD3D256F24221A6B0000FD4E /* ClockFaceHourNumber.swift in Sources */,
 				FD1E012C241FAF1D00D0AC23 /* ClockLayout.swift in Sources */,
 			);
